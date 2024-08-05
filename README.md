@@ -1,4 +1,4 @@
-#Compiler tiny BASIC to C
+# Compiler tiny BASIC to C
 
 This compiler is built in Python and supports a part od dailect of BASIC and compile it to C.
 
